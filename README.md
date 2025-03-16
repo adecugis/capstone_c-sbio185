@@ -1,3 +1,4 @@
 - Full analysis: contains the UMAP/t-SNE generation for dimensionality reduction -> clustering method
 - DEG: DEG file generation
 - labels: generates labels for the clusters based on recurrent cell type
+- CT analysis: cell type annotation for clustering-first method
